@@ -6,5 +6,4 @@ The game has two players, and each player takes turns rolling a dice. The player
 #### Reinforce all the skills I have learned
 * DOM manipulation
 * Handling an events
-* Manipulating CSS styles
 * Working with classes
